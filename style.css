@@ -1,0 +1,31 @@
+.container-fluid {
+  background-color: rgb(235, 233, 233);
+  height: 100px;
+}
+
+.col-1, .col, .col-2, .col-10, .col-4, .col-md-4 {
+  border: solid 1px rgb(0, 90, 169);
+  background-color: rgb(247, 251, 12);
+}
+/* .container-fluid{
+    background-color: rgb(235, 233, 233);
+    height: 100px;
+}
+.row{
+    border: solid 1px black;
+}
+.col-1{
+    border: solid 1px rgb(0, 90, 169);
+    background-color: rgb(247, 251, 12);
+}
+.col{
+    border: solid 1px rgb(162, 0, 157);
+    background-color: rgb(195, 196, 255);
+}
+.col-3, .col-4, .col-sm-4, .col-md-4{
+    border: solid 1px rgb(162, 0, 157);
+    background-color: rgb(247, 251, 12);
+}
+.col-9{
+    background-color: rgb(251, 147, 12);
+} */
